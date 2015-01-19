@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GPS Status</string>
+ 
+    <string name="action_settings">Настройки</string>
+ <string name="txtSat">Спутники</string>
+ <string name="txtStatus">Детали</string>
+  <string name="txtSatmap">Карта спутников</string>
+    <string name="txtLat">Широта:</string>
+    <string name="txtLon">Долгота:</string>
+    <string name="txtSpd">Скорость:</string>
+      <string name="txtAcc">Точность:</string>
+        <string name="txtSats">Спутников(Видно|Использ.):</string>
+          <string name="txtDat">Дата:</string>
+           <string name="txtAlt">Высота:</string>
+           <string name="txtOn">Вкл</string>
+           <string name="txtOff">Выкл</string>
+           <string name="txtGetAGPS">Запрос AGPS для ускорения получения координат</string>
+           <string name="txtDelAGPS">Удалить данные A-GPS</string>
+           <string name="txtEnabled">GPS Включен:</string>
+            <string name="txtFixed">Есть фикс:</string>
+            
+             <string name="txtFixFail">Нет фикса</string>
+            <string name="txtGetAGPSGot">Успешно загружены</string>
+            <string name="txtDelAGPSDel">AGPS данные удалены. Рекомендуется получить AGPS данные.
+                Нажмите вторую кнопку.</string>
+            <string name="txtNoInetAvailable">Для этой функции нужен интернет</string>
+      <string name="warnNoLocation">Нет полученных координат. Пожалуйста, подождите.</string>
+       <string name="warnNoFixTooLong">Все ещё нет координат. Лучше попробовать под открытым небом</string>
+</resources>

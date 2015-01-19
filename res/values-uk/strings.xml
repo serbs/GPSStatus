@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GPS Status</string>
+ 
+    <string name="action_settings">Налаштування</string>
+ <string name="txtSat">Супутники</string>
+ <string name="txtStatus">Деталі</string>
+  <string name="txtSatmap">Карта супутників</string>
+    <string name="txtLat">Широта:</string>
+    <string name="txtLon">Довгота:</string>
+    <string name="txtSpd">Швидкість:</string>
+      <string name="txtAcc">Точність:</string>
+        <string name="txtSats">Супутників(Видно|Використ.):</string>
+          <string name="txtDat">Дата:</string>
+           <string name="txtAlt">Висота:</string>
+           <string name="txtOn">Вкл</string>
+           <string name="txtOff">Викл</string>
+           <string name="txtGetAGPS">Запрос AGPS для прискорення отримання координат</string>
+           <string name="txtDelAGPS">Видалити дані A-GPS</string>
+           <string name="txtEnabled">GPS Включено:</string>
+            <string name="txtFixed">Є фікс:</string>
+            
+             <string name="txtFixFail">Немає фикса</string>
+            <string name="txtGetAGPSGot">Успішно завантажені</string>
+            <string name="txtDelAGPSDel">AGPS дані видалено. Рекомендується отриматі AGPS дані.
+                Клікніть іншу кнопку.</string>
+            <string name="txtNoInetAvailable">Ця функція потребує интернет з\'єднання</string>
+      <string name="warnNoLocation">Координати не отримано. Зачекайте.</string>
+       <string name="warnNoFixTooLong">Все ще немає координат. Краще спробувати під відкритим небом</string>
+</resources>

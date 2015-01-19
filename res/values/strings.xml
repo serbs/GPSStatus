@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GPS Status</string>
+ 
+    <string name="action_settings">Settings</string>
+ <string name="txtSat">Satellites</string>
+ <string name="txtStatus">Details</string>
+ <string name="txtSatmap">Satellite map</string>
+    <string name="txtLat">Latitude:</string>
+    <string name="txtLon">Longitude:</string>
+    <string name="txtSpd">Speed:</string>
+      <string name="txtAcc">Accuracy:</string>
+        <string name="txtSats">Satellites(Visible|In use):</string>
+          <string name="txtDat">Date:</string>
+           <string name="txtAlt">Altitude:</string>
+           <string name="txtOn">On</string>
+           <string name="txtOff">Off. Enable to use</string>
+           <string name="txtGetAGPS">Get A-GPS to improve GPS fix</string>
+           <string name="txtDelAGPS">Reset A-GPS</string>
+           <string name="txtEnabled">GPS Enabled</string>
+            <string name="txtFixed">Has fix</string>
+            
+             <string name="txtFixFail">No fix</string>
+            <string name="txtGetAGPSGot">Successfully downloaded</string>
+            <string name="txtDelAGPSDel">AGPS data successfully deleted. It\'s recommended to get AGPS now.
+                Click right button.</string>
+            <string name="txtNoInetAvailable">Internet connection required to use this option</string>
+      <string name="warnNoLocation">No location fixed. Please wait.</string>
+       <string name="warnNoFixTooLong">Still no GPS fix. It\'s better to try out of any buildings</string>
+       <string name="banner_ad_unit_id">ca-app-pub-5358384308834340/5972395668</string>
+</resources>
